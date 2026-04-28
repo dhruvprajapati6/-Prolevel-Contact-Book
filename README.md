@@ -43,44 +43,21 @@ It supports full **CRUD operations (Create, Read, Update, Delete)** with a clean
 
 ## 📸 Features Preview
 
-### ➕ Add Contact
-
 <p align="center">
-  <img src="images/add.png" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFEB3B,100:FFC107&height=100&section=header&text=➕%20Add%20Contact&fontSize=30&fontColor=000000"/>
 </p>
 
-> Add a new contact by entering name and phone number.
-
----
-
-### 🔍 Search Contact
-
 <p align="center">
-  <img src="images/search.png" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFEB3B,100:FFC107&height=100&section=header&text=🔍%20Search%20Contact&fontSize=30&fontColor=000000"/>
 </p>
 
-> Quickly find a contact using their name.
-
----
-
-### ✏️ Update Contact
-
 <p align="center">
-  <img src="images/update.png" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFEB3B,100:FFC107&height=100&section=header&text=✏️%20Update%20Contact&fontSize=30&fontColor=000000"/>
 </p>
 
-> Update existing contact details easily.
-
----
-
-### 🗑️ Delete Contact
-
 <p align="center">
-  <img src="images/delete.png" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFEB3B,100:FFC107&height=100&section=header&text=🗑️%20Delete%20Contact&fontSize=30&fontColor=000000"/>
 </p>
-
-> Remove unwanted contacts from the list.
-
 
 ---
 
