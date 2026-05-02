@@ -25,19 +25,19 @@ It supports full **CRUD operations (Create, Read, Update, Delete)** with a clean
 
 ## ✨ Features
 
-* ➕ Add Contact
-* 📋 View All Contacts
-* 🔍 Search Contact
-* ✏️ Update Contact
-* 🗑️ Delete Contact
-* ⚠️ Input Validation
+* ➕ Add Contact<br>
+* 📋 View All Contacts<br>
+* 🔍 Search Contact<br>
+* ✏️ Update Contact<br>
+* 🗑️ Delete Contact<br>
+* ⚠️ Input Validation<br>
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Python 🐍
-* Core Programming Concepts
+* Python 🐍<br>
+* Core Programming Concepts<br>
 
 ---
 
