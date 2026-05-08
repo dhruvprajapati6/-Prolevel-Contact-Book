@@ -64,7 +64,7 @@ It supports full **CRUD operations (Create, Read, Update, Delete)** with a clean
 ## 👨‍💻 Author
 
 **Dhruv Prajapati**
-****Creator And cyber analiyast***
+
 ---
 
 ## ⭐ Support
