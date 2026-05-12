@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Contact%20Book&fontSize=40&fontColor=ffffff"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,25:92FE9D,50:6A5ACD,75:FF6FD8,100:FF512F&text=📒%20Advanced%20Contact%20Book&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Python%20CLI%20Project%20%7C%20Fast%20•%20Secure%20•%20Smart&descAlignY=58&descSize=18"
+    width="100%"
+  />
 </p>
 
 # 📘 Advanced Contact Book (Python CLI)
